@@ -1,0 +1,4 @@
+baseurl = "/"
+languageCode = "en-us"
+theme = "lugo"
+title = "Welcome to PJR's Website"
