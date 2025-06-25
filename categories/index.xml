@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>Welcome to PJR&#39;s Website</title>
-	<link>https://pascowl.github.io/pascowl.com/categories/</link>
+	<link>/categories/</link>
 	<description>Recent content in Categories on Welcome to PJR&#39;s Website</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
     
-        <atom:link href="https://pascowl.github.io/pascowl.com/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
 		<title>Hello</title>
-		<link>https://pascowl.github.io/pascowl.com/posts/hello/</link>
+		<link>/posts/hello/</link>
 		<pubDate>Wed, 19 Oct 2022 11:52:19 +0300</pubDate>
 		
-		<guid>https://pascowl.github.io/pascowl.com/posts/hello/</guid>
+		<guid>/posts/hello/</guid>
 		<description>&lt;p&gt;Is this the &lt;em&gt;real&lt;/em&gt; LIFE?
 &lt;strong&gt;Is&lt;/strong&gt; this the &lt;em&gt;real&lt;/em&gt; life?&lt;/p&gt;
 &lt;ul&gt;
@@ -35,7 +35,7 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img src=&#34;https://pascowl.github.io/pascowl.com/static/images/idiom.png&#34; alt=&#34;test&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/static/images/idiom.png&#34; alt=&#34;test&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Hmm.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;hr&gt;
